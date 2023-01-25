@@ -1,3 +1,3 @@
 <?php
-$conn = mysqli_connect("localhost","root","","db_ex");
+$koneksi= mysqli_connect("localhost","root","","db_spp1");
 ?>
